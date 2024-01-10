@@ -18,4 +18,3 @@ foreach(Employee emp in employees)
     Console.Write(emp.Doj.ToLongDateString());
     Console.WriteLine("\n");
 }
-Console.ReadKey();
